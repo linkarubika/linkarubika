@@ -40,6 +40,15 @@
     "click8": "free_follower_m",
     "click9": "free_follower_m",
     "click10": "free_follower_m",
-    "tick1": "yes"
+    "tick1": "yes",
+    "tick2": "no",
+    "tick3": "no",
+    "tick4": "no",
+    "tick5": "no",
+    "tick6": "no",
+    "tick7": "no",
+    "tick8": "no",
+    "tick9": "no",
+    "tick10": "no"
   }
 ]
