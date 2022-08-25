@@ -20,9 +20,9 @@
     "show3": "yes"
   },
   {
-    "image1": "https://s6.uupload.ir/files/img_20220821_173417_933_lec6.jpg",
-    "name1": "خرید ممبر فا..",
-    "description1": "فروشگاه",
+    "image1": "https://s6.uupload.ir/files/logopit_1661099046130_tfyz.png",
+    "name1": "تست۱",
+    "description1": "تست۱",
     "id1": "free_follower_m",
     "tick1": "yes",
     "show1": "yes",
@@ -37,6 +37,6 @@
     "description3": "تست ۱",
     "id3": "free_follower_m",
     "tick3": "no",
-    "show3": "yes"
+    "show3": "no"
   }
 ]
