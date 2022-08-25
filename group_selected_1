@@ -1,8 +1,8 @@
 [
   {
-    "image1": "https://s6.uupload.ir/files/img_20220821_173417_933_7m5g.jpg",
-    "name1": "خرید ممبر فا..",
-    "grouping1": "فروشگاه",
+    "image1": "https://s6.uupload.ir/files/1024_bvsh.png",
+    "name1": "تست۱",
+    "grouping1": "تست۱",
     "image2": "https://s6.uupload.ir/files/1024_bvsh.png",
     "name2": "تست۱",
     "grouping2": "تست۱",
@@ -40,7 +40,7 @@
     "click8": "free_follower_m",
     "click9": "free_follower_m",
     "click10": "free_follower_m",
-    "tick1": "yes",
+    "tick1": "no",
     "tick2": "no",
     "tick3": "no",
     "tick4": "no",
