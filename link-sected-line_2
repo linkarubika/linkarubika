@@ -5,18 +5,15 @@
     "description1": "فروشگاه",
     "id1": "free_follower_m",
     "tick1": "yes",
-    "show1": "true",
     "image2": "https://s6.uupload.ir/files/logopit_1661099046130_tfyz.png",
     "name2": "تست ۱",
     "description2": "تست ۱",
     "id2": "free_follower_m",
     "tick2": "no",
-    "show2": "true",
     "imag3": "https://s6.uupload.ir/files/logopit_1661099046130_tfyz.png",
     "name3": "تست ۱",
     "description3": "تست ۱",
     "id3": "free_follower_m",
-    "tick3": "no",
-    "show3": "true"
+    "tick3": "no"
   }
 ]
